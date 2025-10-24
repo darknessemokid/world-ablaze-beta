@@ -203,7 +203,7 @@ sound =
 sound =
 {
 	name = "agency_complete"
-	file = "menu/research_complete_01.wav"
+	file = "menu/operative_event_close_01"
 }
 sound =
 {
@@ -4239,22 +4239,22 @@ sound =
 
 
 ##################### LANDMARKS #####################
-sound = 
+sound =
 {
 	name = "building_landmark_big_ben_destroyed_01"
 	file = "animations/building_landmark_big_ben_destroyed_01.wav"
 }
-sound = 
+sound =
 {
 	name = "building_landmark_big_ben_destroyed_02"
 	file = "animations/building_landmark_big_ben_destroyed_02.wav"
 }
-sound = 
+sound =
 {
 	name = "building_landmark_big_ben_destroyed_03"
 	file = "animations/building_landmark_big_ben_destroyed_03.wav"
 }
-sound = 
+sound =
 {
 	name = "building_landmark_big_ben_destroyed_04"
 	file = "animations/building_landmark_big_ben_destroyed_04.wav"
