@@ -641,35 +641,35 @@ soundeffect =
 {
 	name = Agent_Event_Event_Pop_Up_Operative_Injured
 	sounds = {
-		sound = Agent_Event_Event_Pop_Up_Operative_Injured_01
+		sound = Agent_Event_Event_Pop_Up_Operative_Injured
 	}
 }
 soundeffect =
 {
 	name = Agent_Event_Event_Pop_Up_Operative_Forced_Underground
 	sounds = {
-		sound = Agent_Event_Event_Pop_Up_Operative_Forced_Underground_01
+		sound = Agent_Event_Event_Pop_Up_Operative_Forced_Underground
 	}
 }
 soundeffect =
 {
 	name = Agent_Event_Event_Pop_Up_Operative_Captured
 	sounds = {
-		sound = Agent_Event_Event_Pop_Up_Operative_Captured_01
+		sound = Agent_Event_Event_Pop_Up_Operative_Captured
 	}
 }
 soundeffect =
 {
 	name = Agent_Event_Event_Pop_Up_Operative_Killed
 	sounds = {
-		sound = Agent_Event_Event_Pop_Up_Operative_Killed_01
+		sound = Agent_Event_Event_Pop_Up_Operative_Killed
 	}
 }
 soundeffect =
 {
 	name = Agent_Event_Notification_Enemy_Agent_Captured
 	sounds = {
-		sound = Agent_Event_Event_Pop_Up_Operative_Captured_01
+		sound = Agent_Event_Event_Pop_Up_Operative_Captured
 	}
 }
 soundeffect =
