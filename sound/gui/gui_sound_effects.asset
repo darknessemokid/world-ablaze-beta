@@ -643,6 +643,9 @@ soundeffect =
 	sounds = {
 		sound = Agent_Event_Event_Pop_Up_Operative_Injured
 	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.55
 }
 soundeffect =
 {
@@ -650,6 +653,9 @@ soundeffect =
 	sounds = {
 		sound = Agent_Event_Event_Pop_Up_Operative_Forced_Underground
 	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.55
 }
 soundeffect =
 {
@@ -657,6 +663,9 @@ soundeffect =
 	sounds = {
 		sound = Agent_Event_Event_Pop_Up_Operative_Captured
 	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.55
 }
 soundeffect =
 {
@@ -664,6 +673,9 @@ soundeffect =
 	sounds = {
 		sound = Agent_Event_Event_Pop_Up_Operative_Killed
 	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.55
 }
 soundeffect =
 {
@@ -671,6 +683,9 @@ soundeffect =
 	sounds = {
 		sound = Agent_Event_Event_Pop_Up_Operative_Captured
 	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.55
 }
 soundeffect =
 {
@@ -678,6 +693,7 @@ soundeffect =
 	sounds = {
 		sound = operative_event_close
 	}
+	volume = 0.7
 }
 soundeffect =
 {
