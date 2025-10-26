@@ -76,6 +76,7 @@ on_actions = {
 					set_from_from = ROOT
 					set_from = FROM
 					days = 1
+
 			}
 			if = {
 				limit = {
@@ -133,6 +134,7 @@ on_actions = {
 				operative_leader_event = {
 					id = lar_operative_event.3
 					set_from_from = ROOT
+
 				}
 			}
 			else = {
@@ -160,18 +162,23 @@ on_actions = {
 			random_list = {
 				45 = {
 					force_operative_leader_into_hiding = 45
+						ROOT = { scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Killed"
+							}
 					operative_leader_event = {
 						id = lar_operative_event.2
 						set_from_from = FROM
-
 					}
 				}
 				25 = {
+						ROOT = { scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Killed"
+							}
 					capture_operative = {
 						captured_by = FROM
 					}
 				}
 				25 = {
+						ROOT = { scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Killed"
+							}
 					harm_operative_leader = 90
 					operative_leader_event = {
 						id = lar_operative_event.4
@@ -179,6 +186,8 @@ on_actions = {
 					}
 				}
 				5 = {
+						ROOT = { scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Killed"
+							}
 					kill_operative = {
 						killed_by = FROM
 					}
