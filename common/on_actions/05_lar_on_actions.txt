@@ -123,6 +123,7 @@ on_actions = {
 			# SCOPE  the operative
 			# ROOT   the killer country (optional)
 			# FROM   the country the operative is operating for
+
 			if = {
 				limit = {
 					country_exists = ROOT
@@ -158,21 +159,19 @@ on_actions = {
 		effect = {
 			random_list = {
 				45 = {
-					scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Forced_Underground"
 					force_operative_leader_into_hiding = 45
 					operative_leader_event = {
 						id = lar_operative_event.2
 						set_from_from = FROM
+
 					}
 				}
 				25 = {
-					scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 					capture_operative = {
 						captured_by = FROM
 					}
 				}
 				25 = {
-					scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Injured"
 					harm_operative_leader = 90
 					operative_leader_event = {
 						id = lar_operative_event.4
@@ -180,7 +179,6 @@ on_actions = {
 					}
 				}
 				5 = {
-					scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Killed"
 					kill_operative = {
 						killed_by = FROM
 					}

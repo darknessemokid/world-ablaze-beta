@@ -7,12 +7,13 @@ operative_leader_event = {
 	desc = lar_operative_event.1.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
 	option = {
 		name = lar_operative_event.1.a
-		
+
 	}
 }
 
@@ -23,12 +24,13 @@ operative_leader_event = {
 	desc = lar_operative_event.2.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
 	option = {
 		name = lar_operative_event.2.a
-		
+
 	}
 }
 
@@ -39,12 +41,13 @@ operative_leader_event = {
 	desc = lar_operative_event.3.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
 	option = {
 		name = lar_operative_event.3.a
-		
+
 	}
 }
 
@@ -55,12 +58,13 @@ operative_leader_event = {
 	desc = lar_operative_event.4.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
 	option = {
 		name = lar_operative_event.4.a
-		
+
 	}
 }
 
@@ -71,6 +75,7 @@ operative_leader_event = {
 	desc = lar_operative_event.5.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
@@ -87,6 +92,7 @@ operative_leader_event = {
 	desc = lar_operative_event.6.desc
 
 	is_triggered_only = yes
+	scoped_sound_effect = "Agent_Event_Event_Pop_Up_Operative_Captured"
 
 	major = no
 
