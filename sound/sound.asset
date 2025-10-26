@@ -2543,33 +2543,28 @@ sound =
 {
 	name = "Agent_Event_Event_Pop_Up_Operative_Injured"
 	file = "menu/Agent_Event_Event_Pop_Up_Operative_Injured_01.wav"
-	always_load = yes
 }
 sound =
 {
 	name = "Agent_Event_Event_Pop_Up_Operative_Forced_Underground"
 	file = "menu/Agent_Event_Event_Pop_Up_Operative_Forced_Underground_01.wav"
-		always_load = yes
 }
 sound =
 {
 	name = "Agent_Event_Event_Pop_Up_Operative_Captured"
 	file = "menu/Agent_Event_Event_Pop_Up_Operative_Captured_01.wav"
-		always_load = yes
 
 }
 sound =
 {
 	name = "Agent_Event_Event_Pop_Up_Operative_Killed"
 	file = "menu/Agent_Event_Event_Pop_Up_Operative_Killed_01.wav"
-		always_load = yes
 
 }
 sound =
 {
 	name = "Agent_Event_Notification_Enemy_Agent_Captured"
 	file = "menu/Agent_Event_Notification_Enemy_Agent_Captured_01.wav"
-		always_load = yes
 
 }
 sound =
